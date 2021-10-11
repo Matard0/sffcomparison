@@ -2,8 +2,8 @@ import traceback
 import os
 from flask import Flask, request
 
-from rdslm_sff_comparison.schema import schema
-from rdslm_sff_comparison.utilities.utilities import get_template_text
+#from rdslm_sff_comparison.schema import schema
+#from rdslm_sff_comparison.utilities.utilities import get_template_text
 
 app = Flask(__name__)
 
