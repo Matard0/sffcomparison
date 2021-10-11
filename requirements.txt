@@ -1,0 +1,12 @@
+dependencies/rdslm_sff_comparison-1.2.0-py3-none-any.whl
+dependencies/rdslibrary-1.4.0-py3-none-any.whl
+setuptools
+wheel
+numpy>=1.21.2
+importlib_resources>=5.2.2
+pandas>=1.3.2
+fastapi==0.68.1
+flask
+uvicorn
+# databricks-connect==7.3.*
+# databricks-cli
