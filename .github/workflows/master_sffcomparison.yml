@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'sffcomparison'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48941F302DFB425980EF1DC8E158FBF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCCA222942C54151808CFCB323B38B63 }}
