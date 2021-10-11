@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'sffgithub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D72BA595D124431B22660F87DB4F8A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E26228EFD384EC9ABF707C9FA568945 }}
